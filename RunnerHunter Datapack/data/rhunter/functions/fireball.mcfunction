@@ -1,0 +1,1 @@
+execute at @e[type=arrow,nbt={inGround: 1b}] run summon fireball ~ ~ ~ {ExplosionPower: 1, Motion: [0.0d, -10.0d, 0.0d]}
